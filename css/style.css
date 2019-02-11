@@ -1916,7 +1916,9 @@ button.contact-submit {
     a.navbar-brand img {
         top: -3px;
     left: -43px;
-    width: 15%;
+    /* width: 15%; */
+    height: 41px;
+    width: 43px;
     }
 }
 
