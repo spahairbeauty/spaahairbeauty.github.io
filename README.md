@@ -1,1 +1,1 @@
-# spahairnbeauty.github.io
+# spahairbeauty.github.io
